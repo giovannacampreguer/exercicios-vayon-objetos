@@ -1,8 +1,8 @@
-const elenco = [{ usuario: "Ellen Pompeo", idade: 56},
-    { usuario: "Patrick Dempsey", idade: 60},
-    { usuario: "Sandra Oh", idade: 55},
-    { usuario: "Justin Chambers", idade: 56},
-    { usuario: "Chandra Wilson", idade: 57}
+const usuarios = [{ nome: "Ellen Pompeo", idade: 56},
+    { nome: "Patrick Dempsey", idade: 60},
+    { nome: "Sandra Oh", idade: 55},
+    { nome: "Justin Chambers", idade: 56},
+    { nome: "Chandra Wilson", idade: 57}
 ];
 
-console.log(elenco[1].usuario);
+console.log(usuarios[1].nome);
